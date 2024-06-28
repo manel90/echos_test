@@ -1,6 +1,6 @@
-#TODO
-##Éléments Manquants
-###Tests Unitaires
+# TODO
+## Éléments Manquants
+### Tests Unitaires
  Écrire des tests unitaires pour le contrôleur des utilisateurs (UsersController)
 
  * Tester les endpoints de récupération de profil utilisateur
@@ -15,7 +15,7 @@
  * Tester la méthode de récupération d'un utilisateur spécifique
  * Tester la méthode de mise à jour d'un utilisateur
  * Tester la méthode de suppression d'utilisateurs
-###Gestion des Logs
+### Gestion des Logs
  Implémenter une gestion centralisée des logs
 
  * Ajouter un logger pour enregistrer les requêtes HTTP entrantes

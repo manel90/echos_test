@@ -1,4 +1,4 @@
-#Les_Echos_test
+# Les_Echos_test
 # Technologies Utilisées
 **Backend** : Nest.js, MongoDB
 
@@ -7,8 +7,8 @@
 **Tests Unitaires** : Jest
 
 **Documentation des APIs** : Swagger
-#Installation et Utilisation
-###Cloner le Répertoire
+# Installation et Utilisation
+### Cloner le Répertoire
  Clonez le dépôt en utilisant la commande suivante :
 
 
@@ -26,10 +26,10 @@ docker-compose build`
 `
 docker-compose up`
 
-####Documentation des APIs
+#### Documentation des APIs
    La documentation des APIs est disponible via Swagger.
    Une fois l'application démarrée, accédez à la documentation à l'URL suivante http://localhost:3000/api-docs
-####Tests Unitaires
+#### Tests Unitaires
 Les tests unitaires sont écrits avec Jest. Pour exécuter les tests, utilisez la commande suivante :
 
 `npm run test`
