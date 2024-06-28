@@ -12,9 +12,9 @@
  Clonez le dépôt en utilisant la commande suivante :
 
 
-`git clone <URL_DU_REPO>` 
+`git clone https://github.com/manel90/echos_test.git` 
 
-`cd projectName`
+`cd echos-test`
 
 #### Construire les Images Docker :
 
@@ -33,3 +33,6 @@ docker-compose up`
 Les tests unitaires sont écrits avec Jest. Pour exécuter les tests, utilisez la commande suivante :
 
 `npm run test`
+
+
+[]: https://github.com/manel90/echos_test.git
