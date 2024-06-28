@@ -28,11 +28,10 @@ docker-compose up`
 
 #### Documentation des APIs
    La documentation des APIs est disponible via Swagger.
-   Une fois l'application démarrée, accédez à la documentation à l'URL suivante http://localhost:3000/api-docs
+   Une fois l'application démarrée, accédez à la documentation à l'URL suivante http://localhost:3003/api/doc
 #### Tests Unitaires
 Les tests unitaires sont écrits avec Jest. Pour exécuter les tests, utilisez la commande suivante :
 
 `npm run test`
 
 
-[]: https://github.com/manel90/echos_test.git
